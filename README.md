@@ -9,6 +9,8 @@
 4. Create ECR repository using Python Boto3 and pushing Docker Image to ECR
 5. using Kubernetes and Create EKS cluster and Nodegroups
 6. Create Kubernetes Deployments and Services using Python!
+7. ![image](https://github.com/Chitreshkpk/Cloud_native_Monitoring/assets/133502661/279ea660-94da-462b-94d9-1563d4932b84)
+
 ```
 screenshots:
 
