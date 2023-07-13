@@ -11,6 +11,7 @@
 6. Create Kubernetes Deployments and Services using Python!
 ```
 screenshots:
+
 ![image](https://github.com/Chitreshkpk/Cloud_native_Monitoring/assets/133502661/4f6da91f-3836-4431-97d7-339364d767f5)
 ![image](https://github.com/Chitreshkpk/Cloud_native_Monitoring/assets/133502661/fb19dddc-e12e-48f3-94b8-f44e8b2a0420)
 
