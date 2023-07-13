@@ -12,8 +12,10 @@
 ```
 screenshots:
 
-![image](https://github.com/Chitreshkpk/Cloud_native_Monitoring/assets/133502661/4f6da91f-3836-4431-97d7-339364d767f5)
-![image](https://github.com/Chitreshkpk/Cloud_native_Monitoring/assets/133502661/fb19dddc-e12e-48f3-94b8-f44e8b2a0420)
+[image](https://github.com/Chitreshkpk/Cloud_native_Monitoring/assets/133502661/ff49eaa1-f62b-4c2b-a758-fadbd3925733)
+[image](https://github.com/Chitreshkpk/Cloud_native_Monitoring/assets/133502661/996a560d-59df-4f75-b1c8-04c0b22c628c)
+
+
 
 
 Step 1: Create a Dockerfile**
